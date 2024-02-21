@@ -14,7 +14,7 @@ Este comando iniciará o banco de dados da aplicação no Docker.
 2. Navegue até a pasta src/services/ILT.Contatos.Api.
 3. No terminal, execute o seguinte comando:
 ```bash
-dotnet run --launch-profile http
+dotnet run --launch-profile https
 ```
 Este comando irá iniciar o backend da aplicação.
 
@@ -31,4 +31,4 @@ npm run dev
 ```
 Este comando iniciará o servidor de desenvolvimento do frontend.
 
-Agora você pode acessar a aplicação frontend no seu navegador visitando http://localhost:3000 e o backend http://localhost:8080/swagger/index.
+Agora você pode acessar a aplicação frontend no seu navegador visitando http://localhost:3000 e o backend http://localhost:5171/swagger/index.html || https://localhost:7149/swagger/index.html
