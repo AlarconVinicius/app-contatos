@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{3F3B5CE8-808A-476C-9546-F75D1A42852A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "services", "services", "{E948848C-8C7F-45E5-A1FA-80DCEF79D210}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ILT.Contatos.API", "src\services\ILT.Contatos.API\ILT.Contatos.API.csproj", "{FC36C496-E7CA-430F-B31E-A1D9053AC887}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC36C496-E7CA-430F-B31E-A1D9053AC887}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC36C496-E7CA-430F-B31E-A1D9053AC887}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC36C496-E7CA-430F-B31E-A1D9053AC887}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC36C496-E7CA-430F-B31E-A1D9053AC887}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E948848C-8C7F-45E5-A1FA-80DCEF79D210} = {3F3B5CE8-808A-476C-9546-F75D1A42852A}
+		{FC36C496-E7CA-430F-B31E-A1D9053AC887} = {E948848C-8C7F-45E5-A1FA-80DCEF79D210}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0F129D3-1EC1-4472-BF24-732DAD111E76}
+	EndGlobalSection
+EndGlobal
