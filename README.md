@@ -1,5 +1,10 @@
 # App Contatos
 Este aplicativo de exemplo foi desenvolvido como parte do processo seletivo para a vaga de Desenvolvedor Trainee e destina-se a gerenciar contatos. Siga as instruções abaixo para executá-lo localmente.
+<hr/>
+<p align="center">
+	<img src="https://github.com/AlarconVinicius/app-contatos/blob/main/docs/landingpage.png">
+</p>
+<hr/>
 ## Rodando o Banco de Dados
 1. Certifique-se de ter o Docker instalado em sua máquina.
 2. Na pasta raiz do projeto, execute o seguinte comando no terminal:
