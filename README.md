@@ -20,7 +20,7 @@ Este comando irá iniciar o backend da aplicação.
 
 ## Rodando o Frontend
 1. Certifique-se de ter o Node.js e o npm instalados em sua máquina.
-2. Na pasta raiz do projeto, acesse a pasta src/web/ILT.Web.App/app-contatos.
+2. Na pasta raiz do projeto, acesse a pasta src/web/ILT.Contatos.WebApp/app-contatos.
 3. No terminal, execute o seguinte comando:
 ```bash
 npm install
