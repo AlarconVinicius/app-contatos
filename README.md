@@ -1,6 +1,5 @@
 # App Contatos
-Este é um aplicativo de exemplo para gerenciar contatos. Siga as instruções abaixo para executar o aplicativo localmente.
-
+Este aplicativo de exemplo foi desenvolvido como parte do processo seletivo para a vaga de Desenvolvedor Trainee e destina-se a gerenciar contatos. Siga as instruções abaixo para executá-lo localmente.
 ## Rodando o Banco de Dados
 1. Certifique-se de ter o Docker instalado em sua máquina.
 2. Na pasta raiz do projeto, execute o seguinte comando no terminal:
@@ -32,3 +31,8 @@ npm run dev
 Este comando iniciará o servidor de desenvolvimento do frontend.
 
 Agora você pode acessar a aplicação frontend no seu navegador visitando http://localhost:3000 e o backend http://localhost:5171/swagger/index.html || https://localhost:7149/swagger/index.html
+
+## Informações de Contato
+
+- **Portfólio**: [Link para o seu Portfólio](https://github.com/AlarconVinicius/)
+- **LinkedIn**: [Link para o seu LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-alarcon-52a8a820a/)
